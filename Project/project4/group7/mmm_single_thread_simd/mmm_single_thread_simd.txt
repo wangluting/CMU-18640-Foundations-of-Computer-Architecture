@@ -1,0 +1,54 @@
+Elapsed Time:	5.429s
+    Clockticks:	8,338,600,000
+    Instructions Retired:	2,795,200,000
+    CPI Rate:	2.983
+    MUX Reliability:	1.000
+    Retiring uOps:	0.182
+        MS Assists:	0.021
+        FP Assists:	0.000
+    Wasted Work:
+        Branch Mispredict:	0.000
+        SMC Machine Clear:	0.000
+    Back-end Issues:
+        Memory Latency:
+            LLC Miss:	1.000
+            LLC Hit:	0.161
+            DTLB Overhead:	0.008
+            Contested Accesses:	0.000
+            Page Walk:	0.148
+            Bus Lock:	0.000
+        Memory Reissues:
+            Split Loads:	0.000
+            Split Stores:	0.000
+            Loads Blocked by Store Forwarding:	0.261
+        Divider:	0.003
+    Front-end Issues:	0.004
+        ICache Misses:	0.000
+        ITLB Overhead:	0.003
+    Total Thread Count:	1
+    Paused Time:	0s
+
+
+
+
+Elapsed Time:	4.838s
+    CPU Time:	4.742s
+        Effective Time:	4.742s
+            Idle:	0.005s
+            Poor:	4.737s
+            Ok:	0s
+            Ideal:	0s
+            Over:	0s
+        Spin Time:	0s
+        Overhead Time:	0s
+    Instructions Retired:	2,758,110,045
+    Estimated Call Count:	19,033,093
+    CPI Rate:	3.033
+    Wait Rate:	0.437
+    CPU Frequency Ratio:	1.323
+    Context Switch Time:	0.013s
+        Wait Time:	0.002s
+        Inactive Time:	0.011s
+    Estimated Call Count:	19,033,093
+    Total Thread Count:	1
+    Paused Time:	0s

@@ -1,0 +1,1 @@
+Before you compile by mingw32's gcc, make sure you have installed mingw32-pthreads-w32 (class:dev) in the MinGW Installation Manager.
